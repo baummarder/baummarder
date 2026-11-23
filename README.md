@@ -21,8 +21,6 @@ I build software, tinker with hardware, explore emulation, reverse engineering, 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-neon.png" width="100%" alt="Color divider" />
-
 ## 🏳️‍⚧️ About me
 
 - 🧑‍💻 Exploring software, hardware, game development, retro systems, emulation, and custom firmware.
