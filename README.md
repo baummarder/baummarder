@@ -2,9 +2,11 @@
 
 # Hey, I'm Nova — aka Baummarder 🌲
 
-**Developer based in the EU (not in Germany)** building software, tinkering with hardware, and creating Minecraft mods.
+**Developer based in Heilbronn, EU**
 
-*Dedicated to Open Source.*
+I build software, tinker with hardware, and create Minecraft mods.
+
+*Dedicated to open source.*
 
 [Website](https://baummarder.github.io) · [YouTube](https://www.youtube.com/@NovaTech_de) · [Modrinth](https://modrinth.com/user/Concorde)
 
@@ -12,11 +14,11 @@
 
 ---
 
-### A little about me
+## About me
 
 - 🧑‍💻 I explore ideas across software, hardware, game development, and custom firmware.
 - 🧰 I work with Java, Python, HTML/CSS, Processing, Rust, and Scala — always learning and experimenting.
-- 🏳️‍🌈 I'm pansexual. Pronouns: xier/xiers (any pronouns are okay).
+- 🏳️‍🌈 I'm pansexual. My pronouns are xier/xiers, but any pronouns are okay.
 - 🐾 I'm a Protogen furry.
 
 ---
@@ -55,3 +57,7 @@ These projects are no longer active, but remain here as part of my development h
 *Built with curiosity, persistence, and a passion for open source.*
 
 </div>
+
+## My thoughts on AI
+
+I think AI can be a useful tool, especially when working on large projects. But it should support people, not replace them: humans should stay involved, make decisions, and do meaningful work — not be reduced to mindlessly carrying out tasks.
