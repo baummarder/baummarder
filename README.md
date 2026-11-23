@@ -2,7 +2,7 @@
 
 # Hey, I'm Nova — aka Baummarder 🌲
 
-**Developer from Heilbronn, Germany** building software, tinkering with hardware, and making Minecraft mods.
+**Developer from the EU (not Germany)** building software, tinkering with hardware, and making Minecraft mods.
 
 *“Learning it the hard way.”*
 
@@ -16,8 +16,8 @@
 
 - 🧑‍💻 I like exploring ideas across software, hardware, game development, and custom firmware.
 - 🧰 I work with Java, Python, HTML/CSS, Processing, Rust, and Scala — always learning as I go.
-- 🏳️‍🌈 Pronouns: xier/xiers (any pronouns are okay).
-- 🦦 The animal in my profile picture is a **pine marten**, not a dog!
+- 🏳️‍🌈 I'm pansexual. Pronouns: xier/xiers (any pronouns are okay).
+- 🐾 I'm a Protogen furry.
 
 ---
 
