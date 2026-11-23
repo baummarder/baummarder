@@ -2,9 +2,9 @@
 
 # Hey, I'm Nova — aka Baummarder 🌲
 
-**Developer from the EU (not Germany)** building software, tinkering with hardware, and making Minecraft mods.
+**Developer based in the EU (not in Germany)** building software, tinkering with hardware, and creating Minecraft mods.
 
-*“Learning it the hard way.”*
+*Dedicated to Open Source.*
 
 [Website](https://baummarder.github.io) · [YouTube](https://www.youtube.com/@NovaTech_de) · [Modrinth](https://modrinth.com/user/Concorde)
 
@@ -14,8 +14,8 @@
 
 ### A little about me
 
-- 🧑‍💻 I like exploring ideas across software, hardware, game development, and custom firmware.
-- 🧰 I work with Java, Python, HTML/CSS, Processing, Rust, and Scala — always learning as I go.
+- 🧑‍💻 I explore ideas across software, hardware, game development, and custom firmware.
+- 🧰 I work with Java, Python, HTML/CSS, Processing, Rust, and Scala — always learning and experimenting.
 - 🏳️‍🌈 I'm pansexual. Pronouns: xier/xiers (any pronouns are okay).
 - 🐾 I'm a Protogen furry.
 
@@ -25,33 +25,33 @@
 
 | Project | What it is |
 | --- | --- |
-| [nova-flash-studio](https://github.com/baummarder/nova-flash-studio) | A native Rust-based, Flash-inspired 2D animation and game development studio. |
-| [GTAVLegacyRW](https://github.com/baummarder/GTAVLegacyRW) | A rework of DanielSant0s' GTA V Legacy project, aiming to make it run better. |
+| [nova-flash-studio](https://github.com/baummarder/nova-flash-studio) | A native, Rust-based 2D animation and game development studio inspired by Flash. |
+| [GTAVLegacyRW](https://github.com/baummarder/GTAVLegacyRW) | A rework of DanielSant0s' GTA V Legacy project, focused on better performance and compatibility. |
 | [xHoly](https://github.com/baummarder/xHoly) | An Xbox emulator written in Rust. |
 
 ## On hold 🛑
 
 | Project | Status |
 | --- | --- |
-| [freeway-src](https://github.com/baummarder/freeway-src) | Stopped for now — I can't take this on as a solo developer. |
+| [freeway-src](https://github.com/baummarder/freeway-src) | Paused for now — continuing this project alone is too much to take on. |
 
 ## Archived / abandoned projects 🪦
 
-These projects are no longer active; they're here for the ideas, experiments, and history.
+These projects are no longer active, but remain here as part of my development history and experiments.
 
-- [AERDLL.github.io](https://github.com/baummarder/AERDLL.github.io) — Quickies and small web experiments.
+- [AERDLL.github.io](https://github.com/baummarder/AERDLL.github.io) — Quick web experiments and small ideas.
 - [AutoTranslator](https://github.com/baummarder/AutoTranslator) — An auto-translator project.
 - [baummarder.github.io](https://github.com/baummarder/baummarder.github.io) — My personal website.
 - [BrownM](https://github.com/baummarder/BrownM) — A Java project.
-- [CFW-for-DMP-BDT310EG](https://github.com/baummarder/CFW-for-DMP-BDT310EG) — Custom firmware project for the DMP-BDT310EG.
-- [FurrytailLauncher](https://github.com/baummarder/FurrytailLauncher) — A Minecraft launcher built on Prism Launcher.
+- [CFW-for-DMP-BDT310EG](https://github.com/baummarder/CFW-for-DMP-BDT310EG) — Custom firmware for the DMP-BDT310EG.
+- [FurrytailLauncher](https://github.com/baummarder/FurrytailLauncher) — A Minecraft launcher based on Prism Launcher.
 - [FurryTailLauncherWebsite](https://github.com/baummarder/FurryTailLauncherWebsite) — Website for FurrytailLauncher.
-- [Speech2Aggro](https://github.com/baummarder/Speech2Aggro) — Speech2Aggro project.
+- [Speech2Aggro](https://github.com/baummarder/Speech2Aggro) — Speech-to-activation project.
 
 ---
 
 <div align="center">
 
-*Built with curiosity, stubbornness, and a pine marten in the corner.* 🐾
+*Built with curiosity, persistence, and a passion for open source.*
 
 </div>
