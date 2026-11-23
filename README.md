@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nova+%F0%9F%8C%B2;aka+Baummarder;Trans+developer+%2B+furry;Building+weird+cool+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nova+%F0%9F%8C%B2;aka+Baummarder;Trans+developer+%2B+furry%E2%9D%97" alt="Typing introduction" />
 
 **Trans developer based in Heilbronn, EU**
 
@@ -18,13 +18,13 @@ I build software, tinker with hardware, and create Minecraft mods.
 
 ## About me
 
-- 🧑‍💻 I explore ideas across software, hardware, game development, and custom firmware.
-- 🧰 I work with Java, Python, HTML/CSS, Processing, Rust, and Scala — always learning and experimenting.
+- 🧑‍💻 I explore ideas across software, hardware, game development, retro hardware, and custom firmware.
+- 🧰 I work with Rust, Java, C++, C#, Python, Scala, Lua, JavaScript, ActionScript, BASIC, HTML/CSS, Processing, and more.
 - ⚧️ I'm kind of trans and pansexual.
 - 🏳️‍🌈 My pronouns are **xier/xiers**, but any pronouns are cool with me.
 - 🐾 I'm a Protogen furry.
 - 🌲 I like trees, cozy vibes, and building ambitious things.
-- 🎮 Minecraft mods, emulators, and retro hardware have a special place in my heart.
+- 🎮 Minecraft mods, emulators, emulation infrastructure, and retro hardware have a special place in my heart.
 - 🤝 I care about open source, creative freedom, privacy, and learning in public.
 
 ---
@@ -32,10 +32,16 @@ I build software, tinker with hardware, and create Minecraft mods.
 ## My tech stack
 
 <p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/ActionScript-CC0000?style=flat-square&logo=adobe&logoColor=white" alt="ActionScript" />
+  <img src="https://img.shields.io/badge/BASIC-8A2BE2?style=flat-square&logo=retroarch&logoColor=white" alt="BASIC" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processing-foundation&logoColor=white" alt="Processing" />
@@ -45,9 +51,18 @@ I build software, tinker with hardware, and create Minecraft mods.
 
 | Project | What it is |
 | --- | --- |
-| [nova-flash-studio](https://github.com/baummarder/nova-flash-studio) | A native, Rust-based 2D animation and game development studio inspired by Flash. |
+| [nova-flash-studio](https://github.com/baummarder/nova-flash-studio) | A native Rust-based 2D animation and game development studio inspired by Flash. |
+| [xHoly](https://github.com/baummarder/xHoly) | An Xbox emulator written primarily in Rust. |
 | [GTAVLegacyRW](https://github.com/baummarder/GTAVLegacyRW) | A rework of DanielSant0s' GTA V Legacy project, focused on better performance and compatibility. |
-| [xHoly](https://github.com/baummarder/xHoly) | An Xbox emulator written in Rust. |
+| [BrownM](https://github.com/baummarder/BrownM) | A Java project exploring software ideas. |
+
+## Recent interests 🔭
+
+- 🎮 Emulator and game-mod development
+- 🦀 Native desktop tools and systems programming
+- 🌐 Websites and lightweight web experiments
+- 🔧 Reverse-engineering and custom firmware
+- 🧩 Small utilities that solve unusual problems
 
 ## On hold 🛑
 
@@ -66,7 +81,7 @@ These projects are no longer active, but remain here as part of my development h
 - [CFW-for-DMP-BDT310EG](https://github.com/baummarder/CFW-for-DMP-BDT310EG) — Custom firmware for the DMP-BDT310EG.
 - [FurrytailLauncher](https://github.com/baummarder/FurrytailLauncher) — A Minecraft launcher based on Prism Launcher.
 - [FurryTailLauncherWebsite](https://github.com/baummarder/FurryTailLauncherWebsite) — Website for FurrytailLauncher.
-- [Speech2Aggro](https://github.com/baummarder/Speech2Aggro) — Speech-to-activation project.
+- [Speech2Aggro](https://github.com/baummarder/Speech2Aggro) — A C# speech-to-activation project.
 
 ---
 
@@ -81,7 +96,7 @@ These projects are no longer active, but remain here as part of my development h
 
 ## My thoughts on AI
 
-I think AI can be a useful tool, especially when working on large projects. But it should support people, not replace them: humans should stay involved, make decisions, and do meaningful work — not be replaced by machines.
+I think AI can be a useful tool, especially when working on large projects. But it should support people, not replace them: humans should stay involved, make decisions, and do meaningful work — even when AI is helping.
 
 ---
 
