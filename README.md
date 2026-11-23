@@ -11,6 +11,9 @@ I build software, tinker with hardware, explore emulation, and make Minecraft-re
 [![Website](https://img.shields.io/badge/Website-baummarder.github.io-39FF14?style=for-the-badge&logo=sparkles&logoColor=white)](https://baummarder.github.io)
 [![YouTube](https://img.shields.io/badge/YouTube-NovaTech__de-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NovaTech_de)
 [![Modrinth](https://img.shields.io/badge/Modrinth-Concorde-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Concorde)
+[![Bluesky](https://img.shields.io/badge/Bluesky-thatdslguy-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/thatdslguy.bsky.social)
+[![Reddit](https://img.shields.io/badge/Reddit-illumoser-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/illumoser/)
+[![Matrix](https://img.shields.io/badge/Matrix-illuminatus__est-0DBD8B?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@illuminatus_est:matrix.org)
 
 </div>
 
@@ -38,7 +41,7 @@ I build software, tinker with hardware, explore emulation, and make Minecraft-re
 
 ---
 
-## My tech stack
+## Languages & technologies
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -54,6 +57,8 @@ I build software, tinker with hardware, explore emulation, and make Minecraft-re
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processing-foundation&logoColor=white" alt="Processing" />
+  <img src="https://img.shields.io/badge/San%20Andreas%20Script-333333?style=flat-square" alt="San Andreas Script" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
 ## What I'm working on 🚧
