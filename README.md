@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:5BCEFA,28:5BCEFA,28:F5A9B8,50:F5A9B8,50:FFFFFF,72:FFFFFF,72:F5A9B8,100:F5A9B8&section=header&text=Nova%20%E2%9C%A8&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=aka%20Baummarder%20%E2%80%A2%20trans%20developer%20%2B%20Protogen&descSize=18&descAlignY=58" alt="Nova — trans developer and Protogen" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:5BCEFA,28:5BCEFA,28:F5A9B8,50:F5A9B8,50:FFFFFF,72:FFFFFF,72:F5A9B8,100:F5A9B8&section=header&text=Nova&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=aka%20Baummarder%20%E2%80%A2%20trans%20developer%20%2B%20Protogen&descSize=18&descAlignY=58" alt="Nova — trans developer and Protogen" />
 
 <a href="https://readme-typing-svg.demolab.com/demo/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=5BCEFA&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Nova+%F0%9F%8C%B2;aka+Baummarder;Trans+developer+%7C+furry+%7C+maker;Building+software%2C+hardware+%26+weird+ideas" alt="Animated introduction" />
@@ -86,18 +86,16 @@ I build software, tinker with hardware, explore emulation, reverse engineering, 
 | [freeway-src](https://github.com/baummarder/freeway-src) | Paused — continuing this project alone became too much. |
 
 <details>
-<summary><h2>🪦 Archived / abandoned projects</h2></summary>
+  <summary>🪦 Archived / abandoned projects</summary>
 
-These projects remain as part of my development history and experiments.
-
-- [AERDLL.github.io](https://github.com/baummarder/AERDLL.github.io) — Quick web experiments and small ideas.
-- [AutoTranslator](https://github.com/baummarder/AutoTranslator) — An auto-translator project.
-- [baummarder.github.io](https://github.com/baummarder/baummarder.github.io) — An earlier version of my personal website.
-- [BrownM](https://github.com/baummarder/BrownM) — A Java project exploring software ideas.
-- [CFW-for-DMP-BDT310EG](https://github.com/baummarder/CFW-for-DMP-BDT310EG) — Custom firmware for the DMP-BDT310EG.
-- [FurrytailLauncher](https://github.com/baummarder/FurrytailLauncher) — A Minecraft launcher based on Prism Launcher.
-- [FurryTailLauncherWebsite](https://github.com/baummarder/FurryTailLauncherWebsite) — Website for FurrytailLauncher.
-- [Speech2Aggro](https://github.com/baummarder/Speech2Aggro) — A C# speech-to-activation project.
+  - [AERDLL.github.io](https://github.com/baummarder/AERDLL.github.io) — Quick web experiments and small ideas.
+  - [AutoTranslator](https://github.com/baummarder/AutoTranslator) — An auto-translator project.
+  - [baummarder.github.io](https://github.com/baummarder/baummarder.github.io) — An earlier version of my personal website.
+  - [BrownM](https://github.com/baummarder/BrownM) — A Java project exploring software ideas.
+  - [CFW-for-DMP-BDT310EG](https://github.com/baummarder/CFW-for-DMP-BDT310EG) — Custom firmware for the DMP-BDT310EG.
+  - [FurrytailLauncher](https://github.com/baummarder/FurrytailLauncher) — A Minecraft launcher based on Prism Launcher.
+  - [FurryTailLauncherWebsite](https://github.com/baummarder/FurryTailLauncherWebsite) — Website for FurrytailLauncher.
+  - [Speech2Aggro](https://github.com/baummarder/Speech2Aggro) — A C# speech-to-activation project.
 
 </details>
 
