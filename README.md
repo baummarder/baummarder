@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nova+%F0%9F%8C%B2;aka+Baummarder;Trans+developer+%2B+furry%E2%9D%97" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nova+%F0%9F%8C%B2;aka+Baummarder;Trans+developer+%7C+furry+%7C+maker" alt="Typing animation introducing Nova" />
 
-**Trans developer based in Heilbronn, EU**
+### Trans developer based in Heilbronn, EU
 
-I build software, tinker with hardware, and create Minecraft mods.
+I build software, tinker with hardware, explore emulation, and make Minecraft-related things.
 
-*Dedicated to open source.*
+*Dedicated to open source, creative freedom, and learning in public.*
 
 [![Website](https://img.shields.io/badge/Website-baummarder.github.io-39FF14?style=for-the-badge&logo=sparkles&logoColor=white)](https://baummarder.github.io)
 [![YouTube](https://img.shields.io/badge/YouTube-NovaTech__de-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NovaTech_de)
@@ -20,12 +20,21 @@ I build software, tinker with hardware, and create Minecraft mods.
 
 - 🧑‍💻 I explore ideas across software, hardware, game development, retro hardware, and custom firmware.
 - 🧰 I work with Rust, Java, C++, C#, Python, Scala, Lua, JavaScript, ActionScript, BASIC, HTML/CSS, Processing, and more.
-- ⚧️ I'm kind of trans and pansexual.
+- 🌍 **Languages:** German and English.
+- ⚧️ I'm trans and pansexual.
 - 🏳️‍🌈 My pronouns are **xier/xiers**, but any pronouns are cool with me.
 - 🐾 I'm a Protogen furry.
 - 🌲 I like trees, cozy vibes, and building ambitious things.
-- 🎮 Minecraft mods, emulators, emulation infrastructure, and retro hardware have a special place in my heart.
 - 🤝 I care about open source, creative freedom, privacy, and learning in public.
+
+## A few trivia bits ✨
+
+- 🎞️ I'm building **nova-flash-studio**, a native Rust project inspired by Flash for 2D animation and game development.
+- 🦀 Rust is showing up in some big experiments of mine—including **xHoly**, an Xbox emulator, and my animation/game studio.
+- 🎮 My projects span a pretty unusual range: from Minecraft launchers and game mods to emulators and custom firmware for a Panasonic Blu-ray player.
+- 🛠️ I've also explored a GTA V Legacy rework using **San Andreas Script** and made a C# speech-to-activation project.
+- 🔧 I usually have several ideas in progress at once; game development, retro hardware, and solving niche problems keep pulling me in.
+- ☕ Powered by curiosity, cozy vibes, and questionable amounts of caffeine.
 
 ---
 
@@ -53,8 +62,7 @@ I build software, tinker with hardware, and create Minecraft mods.
 | --- | --- |
 | [nova-flash-studio](https://github.com/baummarder/nova-flash-studio) | A native Rust-based 2D animation and game development studio inspired by Flash. |
 | [xHoly](https://github.com/baummarder/xHoly) | An Xbox emulator written primarily in Rust. |
-| [GTAVLegacyRW](https://github.com/baummarder/GTAVLegacyRW) | A rework of DanielSant0s' GTA V Legacy project, focused on better performance and compatibility. |
-| [BrownM](https://github.com/baummarder/BrownM) | A Java project exploring software ideas. |
+| [GTAVLegacyRW](https://github.com/baummarder/GTAVLegacyRW) | A rework of DanielSant0s' GTA V Legacy project using San Andreas Script, focused on better performance and compatibility. |
 
 ## Recent interests 🔭
 
@@ -76,27 +84,16 @@ These projects are no longer active, but remain here as part of my development h
 
 - [AERDLL.github.io](https://github.com/baummarder/AERDLL.github.io) — Quick web experiments and small ideas.
 - [AutoTranslator](https://github.com/baummarder/AutoTranslator) — An auto-translator project.
-- [baummarder.github.io](https://github.com/baummarder/baummarder.github.io) — My personal website.
-- [BrownM](https://github.com/baummarder/BrownM) — A Java project.
+- [baummarder.github.io](https://github.com/baummarder/baummarder.github.io) — An earlier version of my personal website.
+- [BrownM](https://github.com/baummarder/BrownM) — A Java project exploring software ideas.
 - [CFW-for-DMP-BDT310EG](https://github.com/baummarder/CFW-for-DMP-BDT310EG) — Custom firmware for the DMP-BDT310EG.
 - [FurrytailLauncher](https://github.com/baummarder/FurrytailLauncher) — A Minecraft launcher based on Prism Launcher.
 - [FurryTailLauncherWebsite](https://github.com/baummarder/FurryTailLauncherWebsite) — Website for FurrytailLauncher.
 - [Speech2Aggro](https://github.com/baummarder/Speech2Aggro) — A C# speech-to-activation project.
 
----
-
-## Quick facts ⚡
-
-- 🔧 Usually tinkering with at least three projects at once.
-- ☕ Powered by curiosity and questionable amounts of caffeine.
-- 🌙 Best ideas usually appear when the project was supposed to be finished.
-- 🌍 Based in the EU, coding in the future.
-- 🦝 Furry, trans, pansexual, and proudly not a template human.
-- 🧠 Always learning. Not always sleeping.
-
 ## My thoughts on AI
 
-I think AI can be a useful tool, especially when working on large projects. But it should support people, not replace them: humans should stay involved, make decisions, and do meaningful work — even when AI is helping.
+I think AI can be a useful tool, especially when working on large projects. But it should support people, not replace them: humans should stay involved, make decisions, and do meaningful work.
 
 ---
 
@@ -105,5 +102,7 @@ I think AI can be a useful tool, especially when working on large projects. But 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=baummarder&theme=transparent&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub streak stats" />
 
 *Built with curiosity, persistence, and a passion for open source.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer" alt="Green wave footer" />
 
 </div>
